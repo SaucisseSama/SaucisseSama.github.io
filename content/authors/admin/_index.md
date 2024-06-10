@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Presentation
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Anthony
+last_name: MARTIGNON
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Ministere des finances
+    url: https://www.economie.gouv.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,13 +47,12 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Motorcycle
+  - Jeux vidéo
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Lycée
+    institution: Lycée Uruguay
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +60,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BTS SIO SLAM
+    institution: CFA UTEC
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +71,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: 
+    institution: 
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -114,15 +113,15 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 30
         icon: code-bracket
-      - name: Data Science
+      - name: Java
         description: ''
-        percent: 100
+        percent: 20
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 10
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -183,4 +182,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Je m'appelle Anthony Martignon et je suis étudiant en alternance au Ministère des Finances. Je me spécialise actuellement en développement, mais je prévois de me réorienter vers la cybersécurité. À l'avenir, j'envisage de poursuivre une carrière dans la gendarmerie, la police ou les douanes. En parallèle de mes études et de mes projets professionnels, je réalise actuellement mon rêve de passer mon permis moto.
