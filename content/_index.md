@@ -32,14 +32,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Futur études'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+Je suis actuellement en train de poursuivre un BTS, ce qui me permet de tester un maximum de matières dans le domaine de l'informatique. Ensuite, je prévois de faire une licence pour me spécialiser davantage et obtenir un diplôme pour me sécurisé et en guise de parachute, au cas où j'ai envie de retrouver du travail. Après cela, j'envisage de changer de voie et de poursuivre une carrière en tant que policier, douanier ou gendarme. Avec ce diplôme de sécurité, je garde également la possibilité de revenir dans le milieu de l'informatique.
     design:
       columns: '1'
   - block: collection
