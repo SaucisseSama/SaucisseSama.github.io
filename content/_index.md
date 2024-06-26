@@ -32,20 +32,22 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Mes futures études'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Je suis actuellement en train de poursuivre un BTS, ce qui me permet de tester un maximum de matières dans le domaine de l'informatique. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Ensuite, je prévois de faire une licence pour me spécialiser davantage et obtenir un diplôme de sécurité en guise de parachute, au cas où quelque chose se passerait mal dans ma carrière.
+
+        Après cela, j'envisage de changer de voie et de poursuivre une carrière en tant que policier, douanier ou gendarme.
+
+        Avec ce diplôme de sécurité, je garde également la possibilité de revenir dans le milieu de l'informatique, même en dehors du domaine de la sécurité.
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Entreprise
       filters:
         folders:
           - publication
@@ -54,54 +56,15 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Ecole
       filters:
         folders:
           - event
     design:
       view: article-grid
       columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

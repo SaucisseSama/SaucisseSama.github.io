@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Equipe
 summary: My courses
 type: landing
 
@@ -13,11 +13,11 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Equipe
       filters:
         folders:
           - teaching
     design:
       view: article-grid
-      columns: 2
+      columns: 3
 ---

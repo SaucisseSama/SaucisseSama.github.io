@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Presentation
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student
+role: Anthony
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,50 +31,32 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:anthony.mrtgn@google.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/anthony.mrtgn
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/SaucisseSama
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/anthony-martignon-006445266/
 
 interests:
   - Motorcycle
   - Jeux vidéo
 
 education:
-  - area: Lycée
+  - area: Baccalauréat Générale Maths et Physique 
     institution: Lycée Uruguay
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    date_start: 2020-01-01
+    date_end: 2023-12-31
   - area: BTS SIO SLAM
     institution: CFA UTEC
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2023-01-01
+    date_end: 2024-12-31
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Alternance
+    company_name: Ministere des finances
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -84,8 +66,8 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Job été
+    company_name: DGFIP
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
@@ -103,36 +85,32 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 30
+        percent: 
         icon: code-bracket
       - name: Java
         description: ''
-        percent: 20
+        percent: 
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 10
+        percent: 
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Jeux vidéo
         description: ''
-        percent: 60
+        percent:
         icon: person-simple-walk
-      - name: Cats
+      - name: Motorcycle
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        percent:
+        icon: moto
 
 languages:
   - name: Francais
-    percent: 95
+    percent: 70
   - name: Anglais
     percent: 75
 
@@ -171,4 +149,4 @@ awards:
 
 ## About Me
 
-Je m'appelle Anthony Martignon et je suis étudiant en alternance au Ministère des Finances. Je me spécialise actuellement en développement, mais je prévois de me réorienter vers la cybersécurité. À l'avenir, j'envisage de poursuivre une carrière dans la gendarmerie, la police ou les douanes. En parallèle de mes études et de mes projets professionnels, je réalise actuellement mon rêve de passer mon permis moto.
+Je m'appelle Anthony Martignon, et je suis étudiant en alternance à l'UTEC et au Ministère des Finances. Je me spécialise actuellement en développement, mais je prévois de me réorienter vers la cybersécurité. À l'avenir, j'envisage de poursuivre une carrière dans la gendarmerie, la police ou les douanes. En parallèle de mes études et de mes projets professionnels, je réalise actuellement mon rêve de passer mon permis moto.
