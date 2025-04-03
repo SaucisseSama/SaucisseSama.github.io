@@ -5,7 +5,7 @@
     <link>http://localhost:1313/event/</link>
       <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-fr</language><lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -15,21 +15,60 @@
     <item>
       <title>CFA UTEC</title>
       <link>http://localhost:1313/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/event/example/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+      <description>&lt;h2 id=&#34;bienvenue-à-lutec&#34;&gt;Bienvenue à l&amp;rsquo;UTEC&lt;/h2&gt;
+&lt;p&gt;L’UTEC, une école de la CCI de Seine-et-Marne, est dédiée à la formation des jeunes, des adultes et des entreprises du territoire. Elle propose des formations accessibles jusqu&amp;rsquo;au bac+5, dans des secteurs variés, en mettant l’accent sur l’insertion professionnelle et l’accompagnement individualisé.&lt;/p&gt;
+&lt;h3 id=&#34;nos-pôles-dexpertise&#34;&gt;Nos Pôles d&amp;rsquo;Expertise&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Comptabilité - Gestion - RH&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Vente - Commerce - Accueil&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Marketing&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Service et Arts de la Table - Barman&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tourisme - Hébergement&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cuisine - Traiteur - Pâtisserie&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Informatique - Réseau - Cybersécurité&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Digital - Numérique - Fibre Optique&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+&lt;h3 id=&#34;chiffres-clés-de-lutec-2023&#34;&gt;Chiffres Clés de l’UTEC (2023)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;86%&lt;/strong&gt; de taux de réussite sur 785 candidats&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;88%&lt;/strong&gt; de taux de recommandation des apprentis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;95%&lt;/strong&gt; de satisfaction des entreprises partenaires&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;85%&lt;/strong&gt; d’insertion professionnelle&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;60%&lt;/strong&gt; de poursuite d&amp;rsquo;études&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;8%&lt;/strong&gt; de taux de rupture&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2000&lt;/strong&gt; jeunes formés chaque année&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1500&lt;/strong&gt; entreprises partenaires&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ma-formation&#34;&gt;Ma Formation&lt;/h2&gt;
+&lt;p&gt;Je suis actuellement en deuxième année de &lt;strong&gt;BTS SIO (Services Informatiques aux Organisations)&lt;/strong&gt;, option &lt;strong&gt;SLAM (Solutions Logicielles et Applications Métiers)&lt;/strong&gt;, au CFA UTEC.&lt;/p&gt;
+&lt;h3 id=&#34;ma-spécialité&#34;&gt;Ma Spécialité&lt;/h3&gt;
+&lt;p&gt;Dans le cadre de ma formation, je me spécialise dans :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Le développement logiciel (langages : Java, Python, PHP, etc.)&lt;/li&gt;
+&lt;li&gt;La gestion et conception de bases de données&lt;/li&gt;
+&lt;li&gt;L’analyse des besoins métiers et la création de solutions logicielles adaptées&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

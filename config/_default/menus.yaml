@@ -16,9 +16,12 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Projects
+  - name: Projets
     url: projects/
     weight: 30
   - name: Equipe
     url: teaching/
     weight: 40
+  - name: Veille
+    url: veille/
+    weight: 45

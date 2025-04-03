@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Informatique | Anthony Portfolio</title>
+    <link>http://localhost:1313/tags/informatique/</link>
+      <atom:link href="http://localhost:1313/tags/informatique/index.xml" rel="self" type="application/rss+xml" />
+    <description>Informatique</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Informatique</title>
+      <link>http://localhost:1313/tags/informatique/</link>
+    </image>
+    
+    <item>
+      <title>Secrétariat Général de Bercy</title>
+      <link>http://localhost:1313/publication/preprint/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint/</guid>
+      <description>&lt;h2 id=&#34;présentation-de-lentreprise&#34;&gt;Présentation de l&amp;rsquo;Entreprise&lt;/h2&gt;
+&lt;p&gt;Le &lt;strong&gt;Secrétariat Général de Bercy&lt;/strong&gt; est une organisation centrale du &lt;strong&gt;Ministère des Finances&lt;/strong&gt;, qui joue un rôle stratégique dans la gestion administrative et fiscale de la France. Il regroupe divers services dédiés à la gestion des politiques publiques et à l’innovation dans les domaines fiscaux, économiques et financiers.&lt;/p&gt;
+&lt;p&gt;Mon poste est rattaché au site de &lt;strong&gt;Montreuil&lt;/strong&gt;, qui regroupe environ &lt;strong&gt;200 collaborateurs&lt;/strong&gt;. Le site se concentre sur la fiscalité, le support informatique et le développement de solutions numériques adaptées aux besoins des services fiscaux.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;mon-service&#34;&gt;Mon Service&lt;/h2&gt;
+&lt;p&gt;Je travaille au sein d’un &lt;strong&gt;petit service dédié à la fiscalité&lt;/strong&gt;, composé de spécialistes en support informatique et en développement d’outils numériques. Ce service est un maillon essentiel pour assurer l’efficacité des outils fiscaux utilisés par les équipes et par les citoyens.&lt;/p&gt;
+&lt;p&gt;Le service compte actuellement &lt;strong&gt;10 collaborateurs&lt;/strong&gt;, tous impliqués dans des projets techniques et stratégiques pour améliorer l’expérience utilisateur et moderniser les systèmes existants.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Missions principales du service&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maintenance et support des applications fiscales.&lt;/li&gt;
+&lt;li&gt;Développement de solutions sur mesure pour les besoins spécifiques des utilisateurs.&lt;/li&gt;
+&lt;li&gt;Collaboration avec d&amp;rsquo;autres services pour optimiser les processus fiscaux et administratifs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;mon-rôle&#34;&gt;Mon Rôle&lt;/h2&gt;
+&lt;h3 id=&#34;agent-informatique-de-proximité-aip&#34;&gt;Agent Informatique de Proximité (AIP)&lt;/h3&gt;
+&lt;p&gt;Au début de mon alternance, j’assurais le rôle d’&lt;strong&gt;Agent Informatique de Proximité (AIP)&lt;/strong&gt;, qui impliquait :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Assistance technique&lt;/strong&gt; auprès des utilisateurs (résolution de problèmes matériels et logiciels).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Maintenance des équipements informatiques&lt;/strong&gt; et mise à jour des systèmes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Formation et accompagnement des utilisateurs&lt;/strong&gt; sur les outils numériques.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;développeur-web&#34;&gt;Développeur Web&lt;/h3&gt;
+&lt;p&gt;Depuis mars, mes responsabilités se sont orientées vers un rôle de &lt;strong&gt;développeur web&lt;/strong&gt;, en lien direct avec ma formation en BTS SIO option SLAM. Mes principales missions incluent :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Création et maintenance d’une web application&lt;/strong&gt; en &lt;strong&gt;HTML/CSS, PHP et SQL&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Développement d’&lt;strong&gt;interfaces adaptées aux besoins des services fiscaux&lt;/strong&gt;, pour améliorer l’automatisation des tâches et l’ergonomie des outils.&lt;/li&gt;
+&lt;li&gt;Participation à l’analyse des besoins des utilisateurs et à la rédaction de spécifications techniques.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tâches-et-projets-abordés&#34;&gt;Tâches et Projets Abordés&lt;/h2&gt;
+&lt;h3 id=&#34;projets-réalisés&#34;&gt;Projets Réalisés&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Web Application de Fiscalité&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conception et développement d’une interface permettant de &lt;strong&gt;simplifier et automatiser les calculs fiscaux spécifiques&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Implémentation de fonctionnalités en &lt;strong&gt;PHP&lt;/strong&gt; pour gérer les bases de données et assurer la fluidité des interactions avec les utilisateurs.&lt;/li&gt;
+&lt;li&gt;Utilisation de &lt;strong&gt;SQL&lt;/strong&gt; pour stocker et interroger les données de manière efficace.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Support Informatique&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Résolution de plus de &lt;strong&gt;150 incidents techniques&lt;/strong&gt; liés aux outils fiscaux et aux matériels du service.&lt;/li&gt;
+&lt;li&gt;Mise en place d’un &lt;strong&gt;tableau de suivi des incidents&lt;/strong&gt;, permettant une meilleure gestion des demandes et un gain de temps pour l’équipe.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Formation des Collaborateurs&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Création de guides et tutoriels pour accompagner les utilisateurs dans l’utilisation des nouveaux outils.&lt;/li&gt;
+&lt;li&gt;Sessions de formation en petits groupes pour garantir une transition fluide vers les nouvelles applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;compétences-développées&#34;&gt;Compétences Développées&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Langages et outils techniques&lt;/strong&gt; : HTML, CSS, PHP, SQL, gestion de bases de données.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collaboration interservices&lt;/strong&gt; : Communication avec les services utilisateurs pour comprendre leurs besoins et proposer des solutions adaptées.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gestion de projet&lt;/strong&gt; : Organisation des tâches, respect des délais, et priorisation des fonctionnalités essentielles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Ce poste me permet de consolider mes compétences techniques tout en ayant un impact concret sur les missions fiscales et administratives de l’État.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

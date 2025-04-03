@@ -35,13 +35,11 @@ sections:
       title: '📚 Mes futures études'
       subtitle: ''
       text: |-
-        Je suis actuellement en train de poursuivre un BTS, ce qui me permet de tester un maximum de matières dans le domaine de l'informatique. 
+            Je suis actuellement en deuxième année de BTS SIO (Services Informatiques aux Organisations), option SLAM (Solutions Logicielles et Applications Métier). Cette formation m’a permis d’explorer plusieurs aspects de l’informatique, notamment le développement et la gestion d’applications.
 
-        Ensuite, je prévois de faire une licence pour me spécialiser davantage et obtenir un diplôme de sécurité en guise de parachute, au cas où quelque chose se passerait mal dans ma carrière.
+            Ayant été accepté en école d’ingénieur, je prévois désormais de poursuivre dans cette voie pour approfondir mes compétences et me spécialiser davantage. Mon objectif est d’acquérir une expertise solide dans l’informatique et de maximiser mes opportunités professionnelles dans ce domaine.
 
-        Après cela, j'envisage de changer de voie et de poursuivre une carrière en tant que policier, douanier ou gendarme.
-
-        Avec ce diplôme de sécurité, je garde également la possibilité de revenir dans le milieu de l'informatique, même en dehors du domaine de la sécurité.
+            Bien que j’aie un intérêt pour les métiers des forces de l’ordre, ce projet est désormais secondaire, et je me concentre pleinement sur mon parcours en ingénierie.
     design:
       columns: '1'
   - block: collection
@@ -54,7 +52,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     id: talks
     content:

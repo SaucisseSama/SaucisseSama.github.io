@@ -10,8 +10,8 @@ first_name: Anthony
 last_name: MARTIGNON
 
 # Status emoji
-status:
-  icon: ☕️
+status: 
+  icon: 🥶
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,11 +21,6 @@ highlight_name: true
 
 # Role/position/tagline
 role: Anthony
-
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Ministere des finances
-    url: https://www.economie.gouv.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -41,18 +36,20 @@ profiles:
     url: https://www.linkedin.com/in/anthony-martignon-006445266/
 
 interests:
-  - Motorcycle
-  - Jeux vidéo
+  - Auto-moto
+  - Jeux vidéos
 
 education:
   - area: Baccalauréat Générale Maths et Physique 
     institution: Lycée Uruguay
     date_start: 2020-01-01
     date_end: 2023-12-31
+    summary: Obtenue en 2023
   - area: BTS SIO SLAM
     institution: CFA UTEC
     date_start: 2023-01-01
     date_end: 2024-12-31
+    summary: en cours d'aquisition
 
 work:
   - position: Alternance
@@ -61,27 +58,19 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: Apprenti, tache réaliser telle que du support informatique ou bien du développement d'une application web.
   - position: Job été
     company_name: DGFIP
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: Tache simple et résolution de ticket.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Compétences techniques
     items:
       - name: Python
         description: ''
@@ -90,27 +79,43 @@ skills:
       - name: Java
         description: ''
         percent: 
-        icon: chart-bar
+        icon: code-bracket
       - name: SQL
         description: ''
         percent: 
         icon: circle-stack
-  - name: Hobbies
+      - name: Html
+        description: ''
+        percent: 
+        icon: code-bracket
+      - name: CSS
+        description: ''
+        percent: 
+        icon: code-bracket
+      - name: Php
+        description: ''
+        percent: 
+        icon: code-bracket
+      - name: JavaScript
+        description: ''
+        percent: 
+        icon: code-bracket
+  - name: Passions
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Jeux vidéo
+      - name: Jeux vidéos
         description: ''
         percent:
         icon: person-simple-walk
-      - name: Motorcycle
+      - name: Auto-moto
         description: ''
         percent:
-        icon: moto
+        icon: home
 
 languages:
   - name: Francais
-    percent: 70
+    percent: 60
   - name: Anglais
     percent: 75
 
@@ -147,6 +152,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## A propos de moi
 
-Je m'appelle Anthony Martignon, et je suis étudiant en alternance à l'UTEC et au Ministère des Finances. Je me spécialise actuellement en développement, mais je prévois de me réorienter vers la cybersécurité. À l'avenir, j'envisage de poursuivre une carrière dans la gendarmerie, la police ou les douanes. En parallèle de mes études et de mes projets professionnels, je réalise actuellement mon rêve de passer mon permis moto.
+Je m'appelle Anthony Martignon, et je suis étudiant en alternance à l'UTEC et au Ministère des Finances. Je me spécialise actuellement en développement, mais je prévois de me réorienter vers la cybersécurité ou l'intelligence artificielle. À l'avenir, j'envisage d'obtenir mon titre d'ingénieur dans l'une de ces spécialités.

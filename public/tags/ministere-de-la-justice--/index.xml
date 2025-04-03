@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ministère De La Justice - | Anthony Portfolio</title>
+    <link>http://localhost:1313/tags/ministere-de-la-justice--/</link>
+      <atom:link href="http://localhost:1313/tags/ministere-de-la-justice--/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ministère De La Justice -</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-fr</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Ministère De La Justice -</title>
+      <link>http://localhost:1313/tags/ministere-de-la-justice--/</link>
+    </image>
+    
+    <item>
+      <title>Maxence</title>
+      <link>http://localhost:1313/teaching/maxence/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/maxence/</guid>
+      <description>&lt;h1 id=&#34;profil-professionnel--maxence&#34;&gt;Profil Professionnel : Maxence&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Âge&lt;/strong&gt; : 20 ans&lt;br&gt;
+&lt;strong&gt;Formation&lt;/strong&gt; : Étudiant en 2ᵉ année de BTS SIO (Services Informatiques aux Organisations), option SISR (Solutions d’Infrastructure, Systèmes et Réseaux)&lt;br&gt;
+&lt;strong&gt;Statut&lt;/strong&gt; : En alternance au &lt;strong&gt;Ministère de la Justice&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;présentation&#34;&gt;Présentation&lt;/h2&gt;
+&lt;p&gt;Maxence est un étudiant passionné par l’informatique et les jeux vidéo, aussi bien sur PC que sur mobile. Actuellement en alternance en &lt;strong&gt;support informatique&lt;/strong&gt; au sein du Ministère de la Justice, il acquiert de l’expérience dans la gestion des systèmes et réseaux, ainsi que dans l’assistance technique.&lt;/p&gt;
+&lt;h2 id=&#34;centres-dintérêt&#34;&gt;Centres d&amp;rsquo;Intérêt&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Jeux vidéo (PC et mobile)&lt;/li&gt;
+&lt;li&gt;Technologies informatiques&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

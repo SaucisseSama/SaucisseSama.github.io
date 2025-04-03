@@ -20,12 +20,12 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Compétences et passions
       username: admin
     design:
       show_skill_percentage: false
   - block: resume-languages
     content:
-      title: Languages
+      title: Langages
       username: admin
 ---

@@ -1,6 +1,6 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'projets'
+date: false
 type: landing
 
 design:
@@ -11,11 +11,11 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Mes projets
+      text: 
       filters:
         folders:
-          - project
+          - projets
     design:
       view: article-grid
       fill_image: false

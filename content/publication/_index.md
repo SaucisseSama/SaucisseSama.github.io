@@ -1,12 +1,13 @@
 ---
 title: Publications
 cms_exclude: true
+#url: talk
 
-# View.
-view: citation
+# View
+view: card
 
-# Optional header image (relative to `static/media/` folder).
-banner:
+# Optional cover image (relative to `assets/media/` folder).
+image:
   caption: ''
-  image: ''
+  filename: ''
 ---

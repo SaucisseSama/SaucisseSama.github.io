@@ -12,7 +12,7 @@ baseURL: 'https://saucissesama.github.io/'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: fr
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
@@ -53,3 +53,4 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+  
