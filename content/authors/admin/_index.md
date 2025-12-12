@@ -40,32 +40,44 @@ interests:
   - Jeux vidéos
 
 education:
-  - area: Baccalauréat Générale Maths et Physique 
+  - area: Baccalauréat Général Maths et Physique
     institution: Lycée Uruguay
     date_start: 2020-01-01
-    date_end: 2023-12-31
-    summary: Obtenue en 2023
+    date_end: 2023-07-01
+    summary: Obtenu en 2023
   - area: BTS SIO SLAM
     institution: CFA UTEC
     date_start: 2023-01-01
-    date_end: 2024-12-31
-    summary: en cours d'aquisition
+    date_end: 2024-07-01
+    summary: Obtenu
+  - area: Diplôme d'ingénieur
+    institution: ENSIIE
+    date_start: 2024-09-01
+    date_end: 2028-09-01
+    summary: En cours
 
 work:
   - position: Alternance
-    company_name: Ministere des finances
+    company_name: INSEAD
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: ''
+    summary: ''
+  - position: Alternance
+    company_name: Ministère des finances
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
-    date_end: ''
-    summary: Apprenti, tache réaliser telle que du support informatique ou bien du développement d'une application web.
-  - position: Job été
+    date_end: 2024-08-31
+    summary: Apprenti, tâches réalisées telles que du support informatique ou bien du développement d'une application web.
+  - position: Job d'été
     company_name: DGFIP
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: Tache simple et résolution de ticket.
+    summary: Tâches simples et résolution de tickets.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,7 +126,7 @@ skills:
         icon: home
 
 languages:
-  - name: Francais
+  - name: Français
     percent: 60
   - name: Anglais
     percent: 75
@@ -154,4 +166,4 @@ awards:
 
 ## A propos de moi
 
-Je m'appelle Anthony Martignon, et je suis étudiant en alternance à l'UTEC et au Ministère des Finances. Je me spécialise actuellement en développement, mais je prévois de me réorienter vers la cybersécurité ou l'intelligence artificielle. À l'avenir, j'envisage d'obtenir mon titre d'ingénieur dans l'une de ces spécialités.
+Je m'appelle Anthony Martignon, et je suis étudiant en école d'ingénieur à l'ENSIIE en alternance à l'INSEAD. Je me spécialise actuellement en développement, mais je m'intéresse également à la cybersécurité et à l'intelligence artificielle.

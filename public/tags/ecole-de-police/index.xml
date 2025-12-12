@@ -1,59 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ecole De Police | Anthony Portfolio</title>
-    <link>http://localhost:1313/tags/ecole-de-police/</link>
-      <atom:link href="http://localhost:1313/tags/ecole-de-police/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ecole De Police</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-fr</language><lastBuildDate>Mon, 26 Dec 2005 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
-      <title>Ecole De Police</title>
-      <link>http://localhost:1313/tags/ecole-de-police/</link>
-    </image>
-    
-    <item>
-      <title>Thomas</title>
-      <link>http://localhost:1313/teaching/thomas/</link>
-      <pubDate>Mon, 26 Dec 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/thomas/</guid>
-      <description>&lt;h1 id=&#34;profil-professionnel--thomas&#34;&gt;Profil Professionnel : Thomas&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Âge&lt;/strong&gt; : 25 ans&lt;br&gt;
-&lt;strong&gt;Formation&lt;/strong&gt; : Étudiant en 2ᵉ année de BTS SIO (Services Informatiques aux Organisations), option SISR (Solutions d’Infrastructure, Systèmes et Réseaux)&lt;br&gt;
-&lt;strong&gt;Statut&lt;/strong&gt; : En alternance&lt;br&gt;
-&lt;strong&gt;Entreprise&lt;/strong&gt; : École d’Officiers de Police – Support Informatique&lt;/p&gt;
-&lt;h2 id=&#34;présentation&#34;&gt;Présentation&lt;/h2&gt;
-&lt;p&gt;Thomas est un étudiant en BTS SIO option SISR, passionné par l’informatique et les infrastructures réseau. Actuellement en alternance au sein d’une &lt;strong&gt;École d’Officiers de Police&lt;/strong&gt;, il travaille au service de &lt;strong&gt;support informatique&lt;/strong&gt;, où il contribue à la maintenance et à l’optimisation des systèmes utilisés dans un cadre exigeant et stratégique.&lt;/p&gt;
-&lt;h3 id=&#34;lentreprise&#34;&gt;L’Entreprise&lt;/h3&gt;
-&lt;p&gt;L’École d’Officiers de Police est une institution dédiée à la formation des cadres supérieurs de la police nationale. Elle fournit un enseignement de haut niveau, couvrant à la fois des aspects opérationnels et stratégiques.&lt;br&gt;
-Au sein de cette organisation, le service informatique joue un rôle essentiel en garantissant le bon fonctionnement des infrastructures technologiques nécessaires à la formation, à la gestion administrative et à la sécurité.&lt;/p&gt;
-&lt;h2 id=&#34;missions-en-alternance&#34;&gt;Missions en Alternance&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Support utilisateur&lt;/strong&gt; : Assistance technique auprès des cadres et des stagiaires de l’école.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Maintenance des systèmes&lt;/strong&gt; : Gestion des pannes, mise à jour des équipements et surveillance des serveurs.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sécurisation des données&lt;/strong&gt; : Contribution à la mise en place de protocoles de sécurité et à la gestion des accès.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Amélioration des infrastructures&lt;/strong&gt; : Participation à des projets visant à moderniser les systèmes informatiques de l’établissement.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;centres-dintérêt-et-passions&#34;&gt;Centres d&amp;rsquo;Intérêt et Passions&lt;/h2&gt;
-&lt;p&gt;En dehors de son activité professionnelle, Thomas s’investit dans des loisirs variés :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Jeux vidéo&lt;/strong&gt; : Exploration des mécanismes interactifs et esprit compétitif.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Manhwa&lt;/strong&gt; : Récits graphiques coréens qui nourrissent sa créativité et son imagination.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Terrariophilie&lt;/strong&gt; : Passion pour les espèces en terrarium, comme les &lt;strong&gt;serpents&lt;/strong&gt; et autres reptiles.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;compétences-techniques&#34;&gt;Compétences Techniques&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Administration des systèmes&lt;/strong&gt; : Gestion et maintenance des environnements serveurs et réseaux.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Outils informatiques&lt;/strong&gt; : Connaissances approfondies en Linux, Windows Server, et technologies de virtualisation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Support technique&lt;/strong&gt; : Diagnostic et résolution de problèmes informatiques.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;objectifs-professionnels&#34;&gt;Objectifs Professionnels&lt;/h2&gt;
-&lt;p&gt;Thomas aspire à évoluer dans des environnements techniques exigeants, où il pourra approfondir ses compétences en gestion des infrastructures, notamment dans des secteurs tels que la cybersécurité ou les services critiques.&lt;/p&gt;
-&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
-&lt;p&gt;(Lien ou moyen de contact à ajouter selon ses besoins)&lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ecole De Police | Anthony Portfolio</title><link>https://saucissesama.github.io/tags/ecole-de-police/</link><atom:link href="https://saucissesama.github.io/tags/ecole-de-police/index.xml" rel="self" type="application/rss+xml"/><description>Ecole De Police</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-fr</language><lastBuildDate>Mon, 26 Dec 2005 00:00:00 +0000</lastBuildDate><image><url>https://saucissesama.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url><title>Ecole De Police</title><link>https://saucissesama.github.io/tags/ecole-de-police/</link></image><item><title>Thomas</title><link>https://saucissesama.github.io/teaching/thomas/</link><pubDate>Mon, 26 Dec 2005 00:00:00 +0000</pubDate><guid>https://saucissesama.github.io/teaching/thomas/</guid><description>&lt;h1 id="profil-professionnel--thomas">Profil Professionnel : Thomas&lt;/h1>
+&lt;p>&lt;strong>Âge&lt;/strong> : 25 ans&lt;br>
+&lt;strong>Formation&lt;/strong> : Étudiant en 2ᵉ année de BTS SIO (Services Informatiques aux Organisations), option SISR (Solutions d’Infrastructure, Systèmes et Réseaux)&lt;br>
+&lt;strong>Statut&lt;/strong> : En alternance&lt;br>
+&lt;strong>Entreprise&lt;/strong> : École d’Officiers de Police – Support Informatique&lt;/p>
+&lt;h2 id="présentation">Présentation&lt;/h2>
+&lt;p>Thomas est un étudiant en BTS SIO option SISR, passionné par l’informatique et les infrastructures réseau. Actuellement en alternance au sein d’une &lt;strong>École d’Officiers de Police&lt;/strong>, il travaille au service de &lt;strong>support informatique&lt;/strong>, où il contribue à la maintenance et à l’optimisation des systèmes utilisés dans un cadre exigeant et stratégique.&lt;/p>
+&lt;h3 id="lentreprise">L’Entreprise&lt;/h3>
+&lt;p>L’École d’Officiers de Police est une institution dédiée à la formation des cadres supérieurs de la police nationale. Elle fournit un enseignement de haut niveau, couvrant à la fois des aspects opérationnels et stratégiques.&lt;br>
+Au sein de cette organisation, le service informatique joue un rôle essentiel en garantissant le bon fonctionnement des infrastructures technologiques nécessaires à la formation, à la gestion administrative et à la sécurité.&lt;/p>
+&lt;h2 id="missions-en-alternance">Missions en Alternance&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Support utilisateur&lt;/strong> : Assistance technique auprès des cadres et des stagiaires de l’école.&lt;/li>
+&lt;li>&lt;strong>Maintenance des systèmes&lt;/strong> : Gestion des pannes, mise à jour des équipements et surveillance des serveurs.&lt;/li>
+&lt;li>&lt;strong>Sécurisation des données&lt;/strong> : Contribution à la mise en place de protocoles de sécurité et à la gestion des accès.&lt;/li>
+&lt;li>&lt;strong>Amélioration des infrastructures&lt;/strong> : Participation à des projets visant à moderniser les systèmes informatiques de l’établissement.&lt;/li>
+&lt;/ul>
+&lt;h2 id="centres-dintérêt-et-passions">Centres d&amp;rsquo;Intérêt et Passions&lt;/h2>
+&lt;p>En dehors de son activité professionnelle, Thomas s’investit dans des loisirs variés :&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Jeux vidéo&lt;/strong> : Exploration des mécanismes interactifs et esprit compétitif.&lt;/li>
+&lt;li>&lt;strong>Manhwa&lt;/strong> : Récits graphiques coréens qui nourrissent sa créativité et son imagination.&lt;/li>
+&lt;li>&lt;strong>Terrariophilie&lt;/strong> : Passion pour les espèces en terrarium, comme les &lt;strong>serpents&lt;/strong> et autres reptiles.&lt;/li>
+&lt;/ul>
+&lt;h2 id="compétences-techniques">Compétences Techniques&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Administration des systèmes&lt;/strong> : Gestion et maintenance des environnements serveurs et réseaux.&lt;/li>
+&lt;li>&lt;strong>Outils informatiques&lt;/strong> : Connaissances approfondies en Linux, Windows Server, et technologies de virtualisation.&lt;/li>
+&lt;li>&lt;strong>Support technique&lt;/strong> : Diagnostic et résolution de problèmes informatiques.&lt;/li>
+&lt;/ul>
+&lt;h2 id="objectifs-professionnels">Objectifs Professionnels&lt;/h2>
+&lt;p>Thomas aspire à évoluer dans des environnements techniques exigeants, où il pourra approfondir ses compétences en gestion des infrastructures, notamment dans des secteurs tels que la cybersécurité ou les services critiques.&lt;/p>
+&lt;h2 id="contact">Contact&lt;/h2>
+&lt;p>(Lien ou moyen de contact à ajouter selon ses besoins)&lt;/p>
+&lt;hr></description></item></channel></rss>

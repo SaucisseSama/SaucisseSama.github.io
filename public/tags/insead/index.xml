@@ -1,57 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>INSEAD | Anthony Portfolio</title>
-    <link>http://localhost:1313/tags/insead/</link>
-      <atom:link href="http://localhost:1313/tags/insead/index.xml" rel="self" type="application/rss+xml" />
-    <description>INSEAD</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-fr</language><lastBuildDate>Mon, 26 Dec 2005 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
-      <title>INSEAD</title>
-      <link>http://localhost:1313/tags/insead/</link>
-    </image>
-    
-    <item>
-      <title>Arthur Deuz--Scheidbach</title>
-      <link>http://localhost:1313/teaching/arthur/</link>
-      <pubDate>Mon, 26 Dec 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/arthur/</guid>
-      <description>&lt;h1 id=&#34;profil-professionnel--arthur&#34;&gt;Profil Professionnel : Arthur&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Âge&lt;/strong&gt; : 18 ans&lt;br&gt;
-&lt;strong&gt;Formation&lt;/strong&gt; : Étudiant en 2ᵉ année de BTS SIO (Services Informatiques aux Organisations), option SLAM (Solutions Logicielles et Applications Métiers)&lt;br&gt;
-&lt;strong&gt;Statut&lt;/strong&gt; : Apprenti en alternance&lt;br&gt;
-&lt;strong&gt;Portfolio GitHub&lt;/strong&gt; : &lt;a href=&#34;https://github.com/Tokiwadai-Railgun&#34;&gt;Tokiwadai-Railgun&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;présentation&#34;&gt;Présentation&lt;/h2&gt;
-&lt;p&gt;Arthur est un étudiant passionné par l&amp;rsquo;informatique, avec un intérêt marqué pour le &lt;strong&gt;développement backend&lt;/strong&gt;. Il possède une solide expérience en &lt;strong&gt;JavaScript&lt;/strong&gt; et &lt;strong&gt;TypeScript&lt;/strong&gt; pour la création d&amp;rsquo;applications web, ainsi qu&amp;rsquo;en &lt;strong&gt;Rust&lt;/strong&gt; pour le développement d&amp;rsquo;outils en ligne de commande (CLI).&lt;/p&gt;
-&lt;p&gt;Actuellement en BTS SIO SLAM, il combine études et apprentissage pour perfectionner ses compétences. Arthur ambitionne de poursuivre ses études dans une &lt;strong&gt;école d&amp;rsquo;ingénieurs&lt;/strong&gt; afin d&amp;rsquo;approfondir ses connaissances dans différents domaines de l&amp;rsquo;informatique.&lt;/p&gt;
-&lt;h2 id=&#34;linsead&#34;&gt;L&amp;rsquo;INSEAD&lt;/h2&gt;
-&lt;p&gt;L&amp;rsquo;INSEAD (Institut Européen d&amp;rsquo;Administration des Affaires) est une école reconnue à l’international pour la qualité de son enseignement et son approche innovante en matière de gestion et de formation. Elle propose une large gamme de programmes académiques, allant de la formation initiale aux programmes professionnels, dans des domaines tels que le management, la finance et les technologies.&lt;/p&gt;
-&lt;p&gt;Arthur y poursuit actuellement son &lt;strong&gt;BTS SIO (Services Informatiques aux Organisations)&lt;/strong&gt;, option SLAM, combinant une formation académique rigoureuse et une expérience en alternance pour développer des compétences techniques et professionnelles solides.&lt;/p&gt;
-&lt;h2 id=&#34;compétences-techniques&#34;&gt;Compétences Techniques&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Langages de programmation&lt;/strong&gt; : JavaScript, TypeScript, Rust&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Développement backend&lt;/strong&gt; : Création d&amp;rsquo;applications web performantes et sécurisées.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Outils CLI&lt;/strong&gt; : Expertise dans le développement d&amp;rsquo;outils en ligne de commande.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Outils de collaboration&lt;/strong&gt; : Git, GitHub.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;réalisations&#34;&gt;Réalisations&lt;/h2&gt;
-&lt;p&gt;Sur son &lt;a href=&#34;https://github.com/Tokiwadai-Railgun&#34;&gt;profil GitHub&lt;/a&gt;, Arthur présente une variété de projets mettant en valeur ses compétences techniques et sa créativité. Il s&amp;rsquo;engage activement dans le développement de solutions innovantes, qu&amp;rsquo;il s&amp;rsquo;agisse de projets académiques, professionnels ou personnels.&lt;/p&gt;
-&lt;h2 id=&#34;loisirs-et-centres-dintérêt&#34;&gt;Loisirs et Centres d&amp;rsquo;Intérêt&lt;/h2&gt;
-&lt;p&gt;En dehors de ses projets liés à l&amp;rsquo;informatique, Arthur pratique activement :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Plongée sous-marine&lt;/strong&gt; : Une passion pour l&amp;rsquo;exploration et la découverte.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Piano&lt;/strong&gt; : Développement de sa sensibilité artistique et de sa concentration.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Projets personnels&lt;/strong&gt; : Création et exploration de nouvelles idées en programmation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Jeux vidéo&lt;/strong&gt; : Un moyen de se divertir et de s&amp;rsquo;inspirer de nouvelles mécaniques interactives.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;objectifs-professionnels&#34;&gt;Objectifs Professionnels&lt;/h2&gt;
-&lt;p&gt;Arthur aspire à intégrer une école d&amp;rsquo;ingénieurs et à devenir un expert polyvalent en informatique. Sa vision est de contribuer à des projets d&amp;rsquo;envergure, en combinant rigueur technique et créativité.&lt;/p&gt;
-&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
-&lt;p&gt;Pour découvrir ses projets : &lt;a href=&#34;https://github.com/Tokiwadai-Railgun&#34;&gt;Profil GitHub d&amp;rsquo;Arthur&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>INSEAD | Anthony Portfolio</title><link>https://saucissesama.github.io/tags/insead/</link><atom:link href="https://saucissesama.github.io/tags/insead/index.xml" rel="self" type="application/rss+xml"/><description>INSEAD</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-fr</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://saucissesama.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url><title>INSEAD</title><link>https://saucissesama.github.io/tags/insead/</link></image><item><title>INSEAD</title><link>https://saucissesama.github.io/publication/insead/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://saucissesama.github.io/publication/insead/</guid><description>&lt;h2 id="présentation-de-lentreprise">Présentation de l&amp;rsquo;Entreprise&lt;/h2>
+&lt;p>L&amp;rsquo;&lt;strong>INSEAD&lt;/strong> est l&amp;rsquo;une des écoles de commerce les plus importantes et les plus influentes au monde. Avec des campus en Europe (Fontainebleau, France), en Asie (Singapour), au Moyen-Orient (Abou Dabi) et maintenant à San Francisco, l&amp;rsquo;INSEAD rassemble des personnes, des cultures et des idées du monde entier.&lt;/p>
+&lt;h2 id="mon-rôle">Mon Rôle&lt;/h2>
+&lt;p>En tant qu&amp;rsquo;&lt;strong>alternant&lt;/strong>, je participe activement aux projets informatiques de l&amp;rsquo;école. Mes missions consistent à supporter les infrastructures et à développer des solutions adaptées aux besoins d&amp;rsquo;une institution d&amp;rsquo;envergure internationale.&lt;/p>
+&lt;p>&lt;em>(Détails à compléter selon les missions spécifiques)&lt;/em>&lt;/p></description></item><item><title>Arthur Deuz--Scheidbach</title><link>https://saucissesama.github.io/teaching/arthur/</link><pubDate>Mon, 26 Dec 2005 00:00:00 +0000</pubDate><guid>https://saucissesama.github.io/teaching/arthur/</guid><description>&lt;h1 id="profil-professionnel--arthur">Profil Professionnel : Arthur&lt;/h1>
+&lt;p>&lt;strong>Âge&lt;/strong> : 18 ans&lt;br>
+&lt;strong>Formation&lt;/strong> : Étudiant en 2ᵉ année de BTS SIO (Services Informatiques aux Organisations), option SLAM (Solutions Logicielles et Applications Métiers)&lt;br>
+&lt;strong>Statut&lt;/strong> : Apprenti en alternance&lt;br>
+&lt;strong>Portfolio GitHub&lt;/strong> : &lt;a href="https://github.com/Tokiwadai-Railgun">Tokiwadai-Railgun&lt;/a>&lt;/p>
+&lt;h2 id="présentation">Présentation&lt;/h2>
+&lt;p>Arthur est un étudiant passionné par l&amp;rsquo;informatique, avec un intérêt marqué pour le &lt;strong>développement backend&lt;/strong>. Il possède une solide expérience en &lt;strong>JavaScript&lt;/strong> et &lt;strong>TypeScript&lt;/strong> pour la création d&amp;rsquo;applications web, ainsi qu&amp;rsquo;en &lt;strong>Rust&lt;/strong> pour le développement d&amp;rsquo;outils en ligne de commande (CLI).&lt;/p>
+&lt;p>Actuellement en BTS SIO SLAM, il combine études et apprentissage pour perfectionner ses compétences. Arthur ambitionne de poursuivre ses études dans une &lt;strong>école d&amp;rsquo;ingénieurs&lt;/strong> afin d&amp;rsquo;approfondir ses connaissances dans différents domaines de l&amp;rsquo;informatique.&lt;/p>
+&lt;h2 id="linsead">L&amp;rsquo;INSEAD&lt;/h2>
+&lt;p>L&amp;rsquo;INSEAD (Institut Européen d&amp;rsquo;Administration des Affaires) est une école reconnue à l’international pour la qualité de son enseignement et son approche innovante en matière de gestion et de formation. Elle propose une large gamme de programmes académiques, allant de la formation initiale aux programmes professionnels, dans des domaines tels que le management, la finance et les technologies.&lt;/p>
+&lt;p>Arthur y poursuit actuellement son &lt;strong>BTS SIO (Services Informatiques aux Organisations)&lt;/strong>, option SLAM, combinant une formation académique rigoureuse et une expérience en alternance pour développer des compétences techniques et professionnelles solides.&lt;/p>
+&lt;h2 id="compétences-techniques">Compétences Techniques&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Langages de programmation&lt;/strong> : JavaScript, TypeScript, Rust&lt;/li>
+&lt;li>&lt;strong>Développement backend&lt;/strong> : Création d&amp;rsquo;applications web performantes et sécurisées.&lt;/li>
+&lt;li>&lt;strong>Outils CLI&lt;/strong> : Expertise dans le développement d&amp;rsquo;outils en ligne de commande.&lt;/li>
+&lt;li>&lt;strong>Outils de collaboration&lt;/strong> : Git, GitHub.&lt;/li>
+&lt;/ul>
+&lt;h2 id="réalisations">Réalisations&lt;/h2>
+&lt;p>Sur son &lt;a href="https://github.com/Tokiwadai-Railgun">profil GitHub&lt;/a>, Arthur présente une variété de projets mettant en valeur ses compétences techniques et sa créativité. Il s&amp;rsquo;engage activement dans le développement de solutions innovantes, qu&amp;rsquo;il s&amp;rsquo;agisse de projets académiques, professionnels ou personnels.&lt;/p>
+&lt;h2 id="loisirs-et-centres-dintérêt">Loisirs et Centres d&amp;rsquo;Intérêt&lt;/h2>
+&lt;p>En dehors de ses projets liés à l&amp;rsquo;informatique, Arthur pratique activement :&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Plongée sous-marine&lt;/strong> : Une passion pour l&amp;rsquo;exploration et la découverte.&lt;/li>
+&lt;li>&lt;strong>Piano&lt;/strong> : Développement de sa sensibilité artistique et de sa concentration.&lt;/li>
+&lt;li>&lt;strong>Projets personnels&lt;/strong> : Création et exploration de nouvelles idées en programmation.&lt;/li>
+&lt;li>&lt;strong>Jeux vidéo&lt;/strong> : Un moyen de se divertir et de s&amp;rsquo;inspirer de nouvelles mécaniques interactives.&lt;/li>
+&lt;/ul>
+&lt;h2 id="objectifs-professionnels">Objectifs Professionnels&lt;/h2>
+&lt;p>Arthur aspire à intégrer une école d&amp;rsquo;ingénieurs et à devenir un expert polyvalent en informatique. Sa vision est de contribuer à des projets d&amp;rsquo;envergure, en combinant rigueur technique et créativité.&lt;/p>
+&lt;h2 id="contact">Contact&lt;/h2>
+&lt;p>Pour découvrir ses projets : &lt;a href="https://github.com/Tokiwadai-Railgun">Profil GitHub d&amp;rsquo;Arthur&lt;/a>&lt;/p>
+&lt;hr></description></item></channel></rss>

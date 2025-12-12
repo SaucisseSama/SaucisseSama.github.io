@@ -1,76 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Recent &amp; Upcoming Talks | Anthony Portfolio</title>
-    <link>http://localhost:1313/event/</link>
-      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-fr</language><lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>http://localhost:1313/event/</link>
-    </image>
-    
-    <item>
-      <title>CFA UTEC</title>
-      <link>http://localhost:1313/event/example/</link>
-      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
-      <description>&lt;h2 id=&#34;bienvenue-à-lutec&#34;&gt;Bienvenue à l&amp;rsquo;UTEC&lt;/h2&gt;
-&lt;p&gt;L’UTEC, une école de la CCI de Seine-et-Marne, est dédiée à la formation des jeunes, des adultes et des entreprises du territoire. Elle propose des formations accessibles jusqu&amp;rsquo;au bac+5, dans des secteurs variés, en mettant l’accent sur l’insertion professionnelle et l’accompagnement individualisé.&lt;/p&gt;
-&lt;h3 id=&#34;nos-pôles-dexpertise&#34;&gt;Nos Pôles d&amp;rsquo;Expertise&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Comptabilité - Gestion - RH&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Vente - Commerce - Accueil&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Marketing&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Service et Arts de la Table - Barman&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Tourisme - Hébergement&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Cuisine - Traiteur - Pâtisserie&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Informatique - Réseau - Cybersécurité&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Digital - Numérique - Fibre Optique&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;chiffres-clés-de-lutec-2023&#34;&gt;Chiffres Clés de l’UTEC (2023)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;86%&lt;/strong&gt; de taux de réussite sur 785 candidats&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;88%&lt;/strong&gt; de taux de recommandation des apprentis&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;95%&lt;/strong&gt; de satisfaction des entreprises partenaires&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;85%&lt;/strong&gt; d’insertion professionnelle&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;60%&lt;/strong&gt; de poursuite d&amp;rsquo;études&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;8%&lt;/strong&gt; de taux de rupture&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2000&lt;/strong&gt; jeunes formés chaque année&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1500&lt;/strong&gt; entreprises partenaires&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;ma-formation&#34;&gt;Ma Formation&lt;/h2&gt;
-&lt;p&gt;Je suis actuellement en deuxième année de &lt;strong&gt;BTS SIO (Services Informatiques aux Organisations)&lt;/strong&gt;, option &lt;strong&gt;SLAM (Solutions Logicielles et Applications Métiers)&lt;/strong&gt;, au CFA UTEC.&lt;/p&gt;
-&lt;h3 id=&#34;ma-spécialité&#34;&gt;Ma Spécialité&lt;/h3&gt;
-&lt;p&gt;Dans le cadre de ma formation, je me spécialise dans :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Le développement logiciel (langages : Java, Python, PHP, etc.)&lt;/li&gt;
-&lt;li&gt;La gestion et conception de bases de données&lt;/li&gt;
-&lt;li&gt;L’analyse des besoins métiers et la création de solutions logicielles adaptées&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks | Anthony Portfolio</title><link>https://saucissesama.github.io/event/</link><atom:link href="https://saucissesama.github.io/event/index.xml" rel="self" type="application/rss+xml"/><description>Recent &amp; Upcoming Talks</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-fr</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://saucissesama.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url><title>Recent &amp; Upcoming Talks</title><link>https://saucissesama.github.io/event/</link></image><item><title>ENSIIE</title><link>https://saucissesama.github.io/event/ensiie/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://saucissesama.github.io/event/ensiie/</guid><description>&lt;h2 id="à-propos-de-lensiie">À propos de l&amp;rsquo;ENSIIE&lt;/h2>
+&lt;p>L&amp;rsquo;&lt;strong>École Nationale Supérieure d&amp;rsquo;Informatique pour l&amp;rsquo;Industrie et l&amp;rsquo;Entreprise (ENSIIE)&lt;/strong> est une Grande École d&amp;rsquo;ingénieurs française située à Évry-Courcouronnes. Elle forme des ingénieurs de haut niveau dans les domaines de l&amp;rsquo;informatique, des mathématiques appliquées, et de l&amp;rsquo;organisation des entreprises.&lt;/p>
+&lt;h3 id="ma-formation">Ma Formation&lt;/h3>
+&lt;p>Je poursuis actuellement mon &lt;strong>cycle d&amp;rsquo;ingénieur&lt;/strong> à l&amp;rsquo;ENSIIE. Cette formation d&amp;rsquo;excellence me permet d&amp;rsquo;acquérir une triple compétence :&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Informatique&lt;/strong> : Maîtrise des technologies avancées, du développement logiciel à l&amp;rsquo;intelligence artificielle.&lt;/li>
+&lt;li>&lt;strong>Mathématiques&lt;/strong> : Outils mathématiques pour la modélisation et l&amp;rsquo;optimisation.&lt;/li>
+&lt;li>&lt;strong>Entreprise&lt;/strong> : Compréhension des enjeux économiques et managériaux.&lt;/li>
+&lt;/ul>
+&lt;p>Mon objectif est de devenir un ingénieur complet, capable de concevoir des solutions innovantes et de piloter des projets complexes dans un environnement international.&lt;/p></description></item><item><title>CFA UTEC</title><link>https://saucissesama.github.io/event/example/</link><pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate><guid>https://saucissesama.github.io/event/example/</guid><description>&lt;h2 id="bienvenue-à-lutec">Bienvenue à l&amp;rsquo;UTEC&lt;/h2>
+&lt;p>L’UTEC, une école de la CCI de Seine-et-Marne, est dédiée à la formation des jeunes, des adultes et des entreprises du territoire. Elle propose des formations accessibles jusqu&amp;rsquo;au bac+5, dans des secteurs variés, en mettant l’accent sur l’insertion professionnelle et l’accompagnement individualisé.&lt;/p>
+&lt;h3 id="nos-pôles-dexpertise">Nos Pôles d&amp;rsquo;Expertise&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Comptabilité - Gestion - RH&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Vente - Commerce - Accueil&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Marketing&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Service et Arts de la Table - Barman&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Tourisme - Hébergement&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Cuisine - Traiteur - Pâtisserie&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Informatique - Réseau - Cybersécurité&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Digital - Numérique - Fibre Optique&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Management&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="chiffres-clés-de-lutec-2023">Chiffres Clés de l’UTEC (2023)&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>86%&lt;/strong> de taux de réussite sur 785 candidats&lt;/li>
+&lt;li>&lt;strong>88%&lt;/strong> de taux de recommandation des apprentis&lt;/li>
+&lt;li>&lt;strong>95%&lt;/strong> de satisfaction des entreprises partenaires&lt;/li>
+&lt;li>&lt;strong>85%&lt;/strong> d’insertion professionnelle&lt;/li>
+&lt;li>&lt;strong>60%&lt;/strong> de poursuite d&amp;rsquo;études&lt;/li>
+&lt;li>&lt;strong>8%&lt;/strong> de taux de rupture&lt;/li>
+&lt;li>&lt;strong>2000&lt;/strong> jeunes formés chaque année&lt;/li>
+&lt;li>&lt;strong>1500&lt;/strong> entreprises partenaires&lt;/li>
+&lt;/ul>
+&lt;h2 id="ma-formation">Ma Formation&lt;/h2>
+&lt;p>Je suis actuellement en deuxième année de &lt;strong>BTS SIO (Services Informatiques aux Organisations)&lt;/strong>, option &lt;strong>SLAM (Solutions Logicielles et Applications Métiers)&lt;/strong>, au CFA UTEC.&lt;/p>
+&lt;h3 id="ma-spécialité">Ma Spécialité&lt;/h3>
+&lt;p>Dans le cadre de ma formation, je me spécialise dans :&lt;/p>
+&lt;ul>
+&lt;li>Le développement logiciel (langages : Java, Python, PHP, etc.)&lt;/li>
+&lt;li>La gestion et conception de bases de données&lt;/li>
+&lt;li>L’analyse des besoins métiers et la création de solutions logicielles adaptées&lt;/li>
+&lt;/ul></description></item></channel></rss>

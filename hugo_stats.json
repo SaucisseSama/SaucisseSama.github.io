@@ -298,7 +298,6 @@
       "max-lg:[transform:translate3d(0,-100%,0)]",
       "max-lg:hidden",
       "max-w-6xl",
-      "max-w-[500px]",
       "max-w-[65ch]",
       "max-w-none",
       "max-w-prose",
@@ -523,7 +522,7 @@
       "callouts",
       "centres-dintérêt",
       "centres-dintérêt-et-passions",
-      "chart-513649872",
+      "chart-493286715",
       "charts",
       "chiffres-clés-de-lutec-2023",
       "compétences-développées",
@@ -587,7 +586,8 @@
       "todo-lists",
       "top",
       "tâches-et-projets-abordés",
-      "veille-technologique"
+      "veille-technologique",
+      "à-propos-de-lensiie"
     ]
   }
 }

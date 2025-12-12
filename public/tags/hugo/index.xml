@@ -1,115 +1,73 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hugo | Anthony Portfolio</title>
-    <link>http://localhost:1313/tags/hugo/</link>
-      <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-fr</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
-      <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
-    </image>
-    
-    <item>
-      <title>Codeberry</title>
-      <link>http://localhost:1313/projets/codeberry/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projets/codeberry/</guid>
-      <description>&lt;p&gt;Chattriggers module et bien plus encore&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>G A D</title>
-      <link>http://localhost:1313/projets/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projets/pytorch/</guid>
-      <description>&lt;p&gt;Gestionnaire des agents pour leur déménagements&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:1313/post/data-visualization/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/data-visualization/</guid>
-      <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
-&lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
-&lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the popular &lt;a href=&#34;https://plot.ly/&#34;&gt;Plotly&lt;/a&gt; format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
-&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
-&lt;p&gt;Demo:&lt;/p&gt;
-
-
-
-
-&lt;div id=&#34;chart-825619743&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-  async function fetchChartJSON() {
-    console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
-    const response = await fetch(&#39;.\/line-chart.json&#39;);
-    return await response.json();
-  }
-
-  (function() {
-    let a = setInterval( function() {
-      if ( typeof window.Plotly === &#39;undefined&#39; ) {
-        console.debug(&#39;Plotly not loaded yet...&#39;)
-        return;
-      }
-      clearInterval( a );
-
-      fetchChartJSON().then(chart =&gt; {
-        console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-825619743&#39;, chart.data, chart.layout, {responsive: true});
-      });
-    }, 500 );
-  })();
-&lt;/script&gt;
-
-&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
-&lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo | Anthony Portfolio</title><link>https://saucissesama.github.io/tags/hugo/</link><atom:link href="https://saucissesama.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><description>Hugo</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-fr</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://saucissesama.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url><title>Hugo</title><link>https://saucissesama.github.io/tags/hugo/</link></image><item><title>Codeberry</title><link>https://saucissesama.github.io/projets/codeberry/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://saucissesama.github.io/projets/codeberry/</guid><description>&lt;p>Chattriggers module et bien plus encore&lt;/p></description></item><item><title>G A D</title><link>https://saucissesama.github.io/projets/pytorch/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://saucissesama.github.io/projets/pytorch/</guid><description>&lt;p>Gestionnaire des agents pour leur déménagements&lt;/p></description></item><item><title>📈 Communicate your results effectively with the best data visualizations</title><link>https://saucissesama.github.io/post/data-visualization/</link><pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate><guid>https://saucissesama.github.io/post/data-visualization/</guid><description>&lt;p>Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p>
+&lt;p>Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p>
+&lt;h2 id="charts">Charts&lt;/h2>
+&lt;p>Hugo Blox supports the popular &lt;a href="https://plot.ly/">Plotly&lt;/a> format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p>
+&lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
+&lt;p>Demo:&lt;/p>
+&lt;div id="chart-159632874" class="chart">&lt;/div>
+&lt;script>
+async function fetchChartJSON() {
+console.debug('Hugo Blox fetching chart JSON...')
+const response = await fetch('.\/line-chart.json');
+return await response.json();
+}
+(function() {
+let a = setInterval( function() {
+if ( typeof window.Plotly === 'undefined' ) {
+console.debug('Plotly not loaded yet...')
+return;
+}
+clearInterval( a );
+fetchChartJSON().then(chart => {
+console.debug('Plotting chart...')
+window.Plotly.newPlot('chart-159632874', chart.data, chart.layout, {responsive: true});
+});
+}, 500 );
+})();
+&lt;/script>
+&lt;p>You might also find the &lt;a href="http://plotly-json-editor.getforge.io/">Plotly JSON Editor&lt;/a> useful.&lt;/p>
+&lt;h2 id="diagrams">Diagrams&lt;/h2>
+&lt;p>Hugo Blox supports the &lt;em>Mermaid&lt;/em> Markdown extension for diagrams.&lt;/p>
+&lt;p>An example &lt;strong>flowchart&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
 graph TD
 A[Hard] --&amp;gt;|Text| B(Round)
 B --&amp;gt; C{Decision}
 C --&amp;gt;|One| D[Result 1]
 C --&amp;gt;|Two| E[Result 2]
 ```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;graph TD
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A[Hard] --&amp;gt;|Text| B(Round)
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;B --&amp;gt; C{Decision}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C --&amp;gt;|One| D[Result 1]
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C --&amp;gt;|Two| E[Result 2]
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">graph TD
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">A[Hard] --&amp;gt;|Text| B(Round)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">B --&amp;gt; C{Decision}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">C --&amp;gt;|One| D[Result 1]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">C --&amp;gt;|Two| E[Result 2]
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>An example &lt;strong>sequence diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
 sequenceDiagram
 Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
 loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+John-&amp;gt;&amp;gt;John: Fight against hypochondria
 end
 Note right of John: Rational thoughts!
 John--&amp;gt;&amp;gt;Alice: Great!
 John-&amp;gt;&amp;gt;Bob: How about you?
 Bob--&amp;gt;&amp;gt;John: Jolly good!
 ```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sequenceDiagram
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;loop Healthcheck
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;end
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Note right of John: Rational thoughts!
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;John--&amp;gt;&amp;gt;Alice: Great!
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;John-&amp;gt;&amp;gt;Bob: How about you?
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Bob--&amp;gt;&amp;gt;John: Jolly good!
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">sequenceDiagram
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">loop Healthcheck
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> John-&amp;gt;&amp;gt;John: Fight against hypochondria
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">end
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Note right of John: Rational thoughts!
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">John--&amp;gt;&amp;gt;Alice: Great!
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">John-&amp;gt;&amp;gt;Bob: How about you?
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>An example &lt;strong>class diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
 classDiagram
 Class01 &amp;lt;|-- AveryLongClass : Cool
 Class03 *-- Class04
@@ -125,24 +83,24 @@ Class01 : int chimp
 Class01 : int gorilla
 Class08 &amp;lt;--&amp;gt; C2: Cool label
 ```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;classDiagram
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class01 &amp;lt;|-- AveryLongClass : Cool
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class03 *-- Class04
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class05 o-- Class06
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class07 .. Class08
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class09 --&amp;gt; C2 : Where am i?
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class09 --* C3
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class09 --|&amp;gt; Class07
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class07 : equals()
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class07 : Object[] elementData
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class01 : size()
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class01 : int chimp
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class01 : int gorilla
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class08 &amp;lt;--&amp;gt; C2: Cool label
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">classDiagram
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Class01 &amp;lt;|-- AveryLongClass : Cool
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Class03 *-- Class04
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Class05 o-- Class06
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Class07 .. Class08
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Class09 --&amp;gt; C2 : Where am i?
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Class09 --* C3
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Class09 --|&amp;gt; Class07
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Class07 : equals()
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Class07 : Object[] elementData
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Class01 : size()
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Class01 : int chimp
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Class01 : int gorilla
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Class08 &amp;lt;--&amp;gt; C2: Cool label
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>An example &lt;strong>state diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
 stateDiagram
 [*] --&amp;gt; Still
 Still --&amp;gt; [*]
@@ -151,88 +109,37 @@ Moving --&amp;gt; Still
 Moving --&amp;gt; Crash
 Crash --&amp;gt; [*]
 ```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;stateDiagram
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[*] --&amp;gt; Still
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Still --&amp;gt; [*]
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Still --&amp;gt; Moving
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Moving --&amp;gt; Still
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Moving --&amp;gt; Crash
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Crash --&amp;gt; [*]
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;data-frames&#34;&gt;Data Frames&lt;/h2&gt;
-&lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;table class=&#34;table-auto w-full&#34;&gt;
-  
-    
-    
-    &lt;thead&gt;
-      &lt;tr&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;customer_id&lt;/th&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;score&lt;/th&gt;  &lt;/tr&gt;
-    &lt;/thead&gt;
-  
-  &lt;tbody&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;2&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0.5&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;3&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-  &lt;/tbody&gt;
-  
-    &lt;caption class=&#34;table-caption&#34;&gt;Table 1: My results&lt;/caption&gt;
-  
-&lt;/table&gt;
-
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">stateDiagram
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">[*] --&amp;gt; Still
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Still --&amp;gt; [*]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Still --&amp;gt; Moving
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Moving --&amp;gt; Still
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Moving --&amp;gt; Crash
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Crash --&amp;gt; [*]
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="data-frames">Data Frames&lt;/h2>
+&lt;p>Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em>Table&lt;/em> shortcode to your page:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-go" data-lang="go">&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&amp;lt;&lt;/span> &lt;span class="nx">table&lt;/span> &lt;span class="nx">path&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;results.csv&amp;#34;&lt;/span> &lt;span class="nx">header&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;true&amp;#34;&lt;/span> &lt;span class="nx">caption&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;Table 1: My results&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;table class="table-auto w-full">
+&lt;thead>
+&lt;tr> &lt;th class="border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">customer_id&lt;/th> &lt;th class="border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">score&lt;/th> &lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td data-table-dtype="number" class="border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400">1&lt;/td>
+&lt;td data-table-dtype="number" class="border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400">0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number" class="border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400">2&lt;/td>
+&lt;td data-table-dtype="text" class="border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400">0.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number" class="border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400">3&lt;/td>
+&lt;td data-table-dtype="number" class="border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400">1&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;caption class="table-caption">Table 1: My results&lt;/caption>
+&lt;/table>
+&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h2></description></item></channel></rss>
