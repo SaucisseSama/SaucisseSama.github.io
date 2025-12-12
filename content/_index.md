@@ -32,12 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 Mes futures études'
+      title: '📚 Mes études actuelles'
       subtitle: ''
       text: |-
-            Je suis actuellement en deuxième année de BTS SIO (Services Informatiques aux Organisations), option SLAM (Solutions Logicielles et Applications Métier). Cette formation m’a permis d’explorer plusieurs aspects de l’informatique, notamment le développement et la gestion d’applications.
+            J'ai obtenu mon BTS SIO (Services Informatiques aux Organisations), option SLAM (Solutions Logicielles et Applications Métier). Cette formation m’a permis d’explorer plusieurs aspects de l’informatique, notamment le développement et la gestion d’applications.
 
-            Ayant été accepté en école d’ingénieur, je prévois désormais de poursuivre dans cette voie pour approfondir mes compétences et me spécialiser davantage. Mon objectif est d’acquérir une expertise solide dans l’informatique et de maximiser mes opportunités professionnelles dans ce domaine.
+            Je poursuis désormais mes études en école d’ingénieur à l'ENSIIE, où je compte approfondir mes compétences et me spécialiser davantage jusqu'en 2028. En parallèle, j'effectue mon alternance à l'INSEAD. Mon objectif est d’acquérir une expertise solide dans l’informatique et de maximiser mes opportunités professionnelles dans ce domaine.
 
             Bien que j’aie un intérêt pour les métiers des forces de l’ordre, ce projet est désormais secondaire, et je me concentre pleinement sur mon parcours en ingénierie.
     design:
